@@ -1,7 +1,7 @@
 - 👋 Hi, I’m hareesh
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on anything interesting
+- 👀 I’m interested in learning new things.
+- 🌱 I’m currently setting up my github with the projects I did in the past and adding a little touch of my current knowledge to it.
+- 💞️ I’m not looking to collaborate now
 - 📫 How to reach me , mail me at gajulapallihareesh@gmail.com
 
 <!---
