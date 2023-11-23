@@ -1,4 +1,4 @@
-- Hi, I am Hareesh
+- :wave: Hi, I am Hareesh
 - I am currently working in Cohesity.
 - I am looking to collaborate in any interesting projects, including ML and blockchain.
 - Mail me at gajulapallihareesh@gmail.com
