@@ -1,12 +1,16 @@
 - :wave: Hi, I am Hareesh
 - :office: I am currently working in Microsoft.
 - 👬 I am looking to collaborate in any interesting projects, including ML and blockchain.
-- 💻 Mail me at gajulapallihareesh@gmail.com
-- 🔗 You can reach me here as well https://www.linkedin.com/in/hareesh-gajulapalli-699065183/
-- My Social Media
+
+<br/>
+
+### 🔗 Contact me:
+[![Gmail Badge](https://img.shields.io/badge/-Hareesh-D14836?logo=Gmail&logoColor=white&link=mailto:gajulapallihareesh@gmail.com)](mailto:gajulapallihareesh@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Hareesh-blue?logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/hareeshghk/)
+[![Instagram Badge](https://img.shields.io/badge/-Hareesh-ac28a3?logo=instagram&logoColor=white&link=https://instagram.com/harry.ghk/)](https://www.instagram.com/harry.ghk/?hl=en)
+[![Twitter](https://img.shields.io/badge/Hareesh-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/harry_hareesh)
+
   -   Facebook: https://www.facebook.com/hareesh.ghk/
-  -   Twitter: https://twitter.com/harry_hareesh
-  -   Instagram: https://www.instagram.com/harry.ghk/
   
 <!---
 hareeshghk/hareeshghk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
