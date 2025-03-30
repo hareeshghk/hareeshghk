@@ -1,6 +1,6 @@
 - :wave: Hi, I am Hareesh
-- :office: I am currently working in Microsoft.
-- 👬 I am looking to collaborate in any interesting projects, including ML and blockchain.
+- :office: I am currently working in Microsoft SQL team.
+- 👬 I am looking to collaborate in any interesting projects, including Databases, ML and blockchain.
 
 <br/>
 
